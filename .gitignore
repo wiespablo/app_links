@@ -1,0 +1,3 @@
+#ejemplo de archivos a ignorar salida/*.txt
+#si se llegan a borrar los módulos se puede instalar con comando "npm install"
+node_modules/
